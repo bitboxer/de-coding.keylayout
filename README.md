@@ -1,6 +1,6 @@
 # Mac-Tastaturlayout "Deutsch (Programmieren)"
 
-von Bodo Tasche und Frederic Hemberger (mail@frederic-hemberger.de)
+von [Bodo Tasche](http://www.bitboxer.de) und [Frederic Hemberger](http://frederic-hemberger.de)
 
 Ersetzt auf einer deutschen Mac Tastatur öäü durch für Programmierer
 relevante Tasten.
