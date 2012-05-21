@@ -36,6 +36,14 @@ Hier das Mapping:
     <td>ü</td>
     <td>Ü</td>
   </tr>
+  <tr>
+    <td>ß</td>
+    <td>~</td>
+    <td>?</td>
+    <td>ß</td>
+    <td>˙</td>
+  </tr>
+
 
 </table>
 
