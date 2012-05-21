@@ -3,7 +3,7 @@
 <!--Sat, 1 Jan 2005 Generated from KCHR: "German"-->
 <!--Mon, 28 Mar 2011 Replaced Ö/Ä with coding brackets (@fhemberger)-->
 <!---->
-<!--Last edited by Ukelele version 2.1.10 on 2012-05-21 at 20:04 (CEST)-->
+<!--Last edited by Ukelele version 2.1.10 on 2012-05-21 at 20:14 (CEST)-->
 <keyboard group="0" id="3" name="Deutsch (Programmieren)" maxout="1">
     <layouts>
         <layout first="0" last="4" modifiers="commonModifiers" mapSet="ANSI"/>
@@ -221,7 +221,7 @@
             <key code="30" output="*"/>
             <key code="31" action="O"/>
             <key code="32" action="U"/>
-            <key code="33" output="Ü"/>
+            <key code="33" output="|"/>
             <key code="34" action="I"/>
             <key code="35" output="P"/>
             <key code="36" output="&#x000D;"/>
