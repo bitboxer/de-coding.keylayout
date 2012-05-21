@@ -9,28 +9,28 @@ Hier das Mapping:
 
 <table>
   <tr>
-    <td>Taste</td>
-    <td>Normal</td>
-    <td>Shift</td>
-    <td>Alt</td>
-    <td>Alt+Shift</td>
+    <th>Taste</th>
+    <th>Normal</th>
+    <th>Shift</th>
+    <th>Alt</th>
+    <th>Alt+Shift</th>
   </tr>
   <tr>
-    <td>ö/td>
+    <td>ö</td>
     <td>[</td>
     <td>{</td>
     <td>ö</td>
     <td>Ö</td>
   </tr>
   <tr>
-    <td>ä/td>
+    <td>ä</td>
     <td>]</td>
     <td>}</td>
     <td>ä</td>
     <td>Ä</td>
   </tr>
   <tr>
-    <td>ü/td>
+    <td>ü</td>
     <td>\</td>
     <td>|</td>
     <td>ü</td>
