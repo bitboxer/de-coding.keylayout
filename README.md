@@ -5,6 +5,10 @@ von [Bodo Tasche](http://www.bitboxer.de) und [Frederic Hemberger](http://freder
 Ersetzt auf einer deutschen Mac Tastatur öäü durch für Programmierer
 relevante Tasten.
 
+Es gibt zwei Varianten. Die Strict-Variante entfernt die ursprünglichen
+Mappings für {}[], damit man diese Tasten nicht noch weiter nutzt. Das
+beschleunigt die Umgewöhnungszeit :) .
+
 Hier das Mapping:
 
 <table>
