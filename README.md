@@ -57,5 +57,6 @@ Erstellt mit dem Keyboard Layout Editor "[Ukelele](http://scripts.sil.org/ukelel
 
 1. Dateien wahlweise nach
    ~/Library/Keyboard Layouts (für den aktuellen Benutzer) oder
-   /Library/Keyboard Layouts (systemweit) kopieren.
-2. Unter Systemeinstellungen » Sprache & Text » Eingabequellen das Tastaturlayout aktivieren
+   /Library/Keyboard Layouts (systemweit) kopieren. Wer keine Farbe in der
+   Menüleiste mag, wählt die .icns Dateien aus dem black\_white\_icns Ordner.
+2. Unter Systemeinstellungen » Sprache & Text » Eingabequellen das Tastaturlayout aktivieren. Das Layout findet sich unter dem Punkt "andere".
